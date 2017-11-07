@@ -11,6 +11,8 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to c# programming");
+            Console.WriteLine("welcome to c# programming");
+
         }
     }
 }
